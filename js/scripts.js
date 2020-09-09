@@ -16,7 +16,7 @@ list.className = 'list';
 
 // 5: Create a new list item and add it to the <ul>
 const item = document.createElement('li');
-item.innerHTML = "<input> Eat ice cream";
+item.innerHTML = "<input> Eat candy";
 list.appendChild(item); // List is the parent element of the list items, which I selected above
 
 // 6: Change all <input> elements from text fields to checkboxes
