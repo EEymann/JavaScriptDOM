@@ -5,6 +5,10 @@ body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-sans-serif;
   height: 100vh;
+  background: url(../img/candy.jpg) no-repeat center;
+  background-size: cover;
+
+  /* linear-gradient(violet, transparent 90%), linear-gradient(0deg, #fff, transparent), violet url(../img/candy.jpg) no-repeat center; */
 }
 
 h1 {
